@@ -121,5 +121,4 @@ output/
 !app.py
 !requirements.txt
 !README.md
-data/Student_Marks.csv
 !data/
