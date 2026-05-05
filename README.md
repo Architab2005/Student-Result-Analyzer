@@ -55,10 +55,11 @@ ML: Linear Regression (R²>=0.95)
 Student result analyzer/
 ├── app.py              
 ├── requirements.txt    
-├── datasets/           
+├── data/           
 │   └── Student_Marks.csv  
 ├── output/             
-│   └── analysis.csv   
+│   └── analysis.csv 
+├── LICENSE  
 └── README.md         
 
 ## 🔮 ML Model Details
