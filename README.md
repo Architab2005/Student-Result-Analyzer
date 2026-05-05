@@ -81,6 +81,9 @@ Performance:
 - `time_study`: 0-10 hours/week  
 - `marks`: Final score (0-100)
 
+## 📄 License
+This project is licensed under the MIT License.
+
 
 ## 👩‍💻 Author
 **Archita B**  
